@@ -1,6 +1,6 @@
 "# TENGSHE-OS" 
 
-[photo-2022-09-12-17-30-02.jpg](https://postimg.cc/1n3q4R2v)
+[![photo-2022-09-12-17-30-02.jpg](https://i.postimg.cc/76gMsfVr/photo-2022-09-12-17-30-02.jpg)](https://postimg.cc/1n3q4R2v)
 
 以上是Windows10的vm版本
 
