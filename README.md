@@ -9,8 +9,5 @@
 以上是windwos11的iso安装镜像版
 
 下载地址：
- https://tengshos.cowtransfer.com/s/a844abbb4c7445 
-
-点击链接查看 [ TENGSHE-OS-渗透测试系统-win11版.iso ] ，
-
-或访问奶牛快传 cowtransfer.com 输入传输口令 n2wb3w 查看；
+https://anonfiles.com/8fl9Kb7cy7/TENGSHE-OS-_-win11_.7z_001
+https://anonfiles.com/R53cJ874yf/TENGSHE-OS-_-win11_.7z_002
