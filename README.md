@@ -12,4 +12,5 @@
 
 https://anonfiles.com/8fl9Kb7cy7/TENGSHE-OS-_-win11_.7z_001
 https://anonfiles.com/R53cJ874yf/TENGSHE-OS-_-win11_.7z_002
+
 下载两个文件一起解压就ok
