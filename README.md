@@ -2,7 +2,10 @@
 
 [![photo-2022-09-12-17-30-02.jpg](https://i.postimg.cc/76gMsfVr/photo-2022-09-12-17-30-02.jpg)](https://postimg.cc/1n3q4R2v)
 
-以上是Windows10的vm版本
+以上是Windows10的iso版本
+对于系统要求：
+C盘大于300GB
+
 
 [![photo-2022-09-07-09-42-19.jpg](https://i.postimg.cc/vH12JLdZ/photo-2022-09-07-09-42-19.jpg)](https://postimg.cc/qzTGnKRP)
 
